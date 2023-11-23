@@ -1,6 +1,6 @@
 Imagine - Image & Animation Viewer for Windows, Freeware (Donationware)
 ===
-Copyright (c) 2003-2023  **Sejin Chun**
+Copyright (c) 2003-2023  **Sejin Chun**  
 Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 
 ## Features
