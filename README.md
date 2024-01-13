@@ -1,15 +1,16 @@
 Imagine - Image & Animation Viewer for Windows, Freeware (Donationware)
 ===
-Copyright (c) 2003-2023  **Sejin Chun**  
+Copyright (c) 2003-2024  **Sejin Chun**  
 Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 
 ## Features
 * View and save image/animation files with very fast speed
 * Support for numerous image/animation file formats:
-  - ANI, ANM, AVIF, BMP, BPG, CDR, CLP, CUR, DCM, DCX, DDS, EMF, EXR, FLC, FLI,
-    GIF, HDP, HDR, HEIF, ICL, ICNS, ICO, JBG, JP2, JPC, JPG, JXL, LBM, MAC,
-    MBM, MNG, PBM, PCD, PCX, PDN, PGM, PIC, PNG, PPM, PSD, PSP, RAS, RLA, RLE,
-    SGI, SPR, SVG, TGA, TGS, TIF, WBMP, WEBP, WMF, WPG, XBM, XCF, XPM
+  - ANI, ANM, AVIF, BMP, BPG, CDR, CLIP, CLP, CUR, DCM, DCX, DDS, EMF, EXR,
+    FLC, FLI, GIF, HDP, HDR, HEIF, ICL, ICNS, ICO, JBG, JP2, JPC, JPG, JXL,
+    LBM, MAC, MBM, MNG, PBM, PCD, PCX, PDN, PGM, PIC, PNG, PPM, PSD, PSP, QOI,
+    RAS, RLA, RLE, SGI, SPR, SVG, TGA, TGS, TIF, WBMP, WEBP, WMF, WPG, XBM,
+    XCF, XPM
 * Support for digital camera raw image file formats:
   - 3FR, ARW, CR2, CRW, DNG, ERF, KDC, MRW, NEF, ORF, RAF, RAW, SRW, SR2
 * Support for numerous archive file formats:
