@@ -14,7 +14,7 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 * Support for digital camera raw image file formats:
   - 3FR, ARW, CR2, CRW, DNG, ERF, KDC, MRW, NEF, ORF, RAF, RAW, SRW, SR2
 * Support for numerous archive file formats:
-  - ZIP, RAR, 7Z, ALZ, HV3, CBZ, CBR, CB7, ARJ, LZH, EGG, TAR, ISO, CAB
+  - ZIP, RAR, 7Z, ALZ, HV3, CBZ, CBR, CB7
 * Support for high dynamic range image file formats:
   - HDR, EXR, SXR, MXR
 * Extract single/all frames from animation files
