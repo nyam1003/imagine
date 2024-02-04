@@ -32,7 +32,6 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 * Batch rename
 * Capture screen
 * Tiled view
-  - Check textures for seamless tiling, very useful for game developers/modders
 * Create animations
 * Create multiple page images
 * Manipulate and edit images:
