@@ -50,7 +50,7 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 * Command line parameter support
 * Shell extension support
 * Add-on plugin support
-* Total Commander lister and packer plugin
+* Total Commander Lister and Packer plugin
 * No write unnecessary registry (ini-based configuration)
 * Fully optimized binaries (tiny, pure, fast, neat)
 
