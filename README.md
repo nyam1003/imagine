@@ -23,8 +23,7 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 * Show or hide transparency
 * 64-bit version available
 * Unicode version available
-* Multilingual support:
-  - English, German, Spanish, Russian, Danish, Korean, Japanese, Chinese, etc.
+* Multilingual support
 * Thumbnail browser
 * Color management (ICC Profile)
 * Batch conversion
