@@ -33,6 +33,7 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 * Tiled view
 * Create animations
 * Create multiple page images
+* Create panorama images
 * Manipulate and edit images:
   - Flip vertical and horizontal
   - Rotate left, right and free
