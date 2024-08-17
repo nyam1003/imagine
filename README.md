@@ -25,6 +25,7 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 * Unicode version available
 * Multilingual support
 * Thumbnail browser
+* Color corrections
 * Color management (ICC Profile)
 * Batch conversion
 * Slide show
