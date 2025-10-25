@@ -19,7 +19,7 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
   - HDR, EXR, SXR, MXR
 * Extract single/all frames from animation files
 * Show detailed information of image/animation files
-* Show Exif/IPTC information
+* Show Exif/IPTC/DICOM/Comment information
 * Show or hide transparency
 * 64-bit version available
 * Unicode version available
@@ -53,10 +53,11 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 * Add-on plugin support
 * Total Commander Lister, Packer and Content plugin
 * No write unnecessary registry (ini-based configuration)
+* Native support for x86, x64, and arm64 architectures
 * Fully optimized binaries (tiny, pure, fast, neat)
 
 ## System requirements
-* CPU: Pentium compatible
-* Memory: 32MB or higher
+* CPU: Pentium compatible(x86, x64), ARM64(AArch64)
+* RAM: 32MB or higher
 * OS: Microsoft Windows 95/98/ME/NT 4.0/2000/XP/2003/Vista/7/8/10/11
 * Display: 256 color or higher
