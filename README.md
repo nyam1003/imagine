@@ -1,6 +1,6 @@
 Imagine - Image & Animation Viewer for Windows, Freeware (Donationware)
 ===
-Copyright (c) 2003-2025  **Sejin Chun**  
+Copyright (c) 2003-2026  **Sejin Chun**  
 Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 
 ## Features
@@ -11,7 +11,7 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
     LBM, MAC, MBM, MNG, PAM, PBM, PCD, PCX, PDN, PFM, PGM, PIC, PNG, PPM, PSD,
     PSP, QOI, RAS, RLA, RLE, SGI, SPR, SVG, TGA, TGS, TIF, WBMP, WEBP, WMF,
     WPG, XBM, XCF, XPM
-* Support for digital camera raw image file formats:
+* Support for digital camera RAW image file formats:
   - 3FR, ARW, CR2, CRW, DNG, ERF, KDC, MRW, NEF, ORF, RAF, RAW, SRW, SR2
 * Support for numerous archive file formats:
   - ZIP, RAR, 7Z, ALZ, HV3, CBZ, CBR, CB7
@@ -25,6 +25,7 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 * Unicode version available
 * Multilingual support
 * Thumbnail browser
+* Basic paint
 * Color corrections
 * Color management (ICC Profile)
 * Batch conversion
