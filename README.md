@@ -19,7 +19,7 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
   - HDR, EXR, SXR, MXR
 * Extract single/all frames from animation files
 * Show detailed information of image/animation files
-* Show Exif/IPTC/DICOM/Comment information
+* Show Exif/XMP/IPTC/DICOM/Comment information
 * Show or hide transparency
 * 64-bit version available
 * Unicode version available
