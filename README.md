@@ -12,7 +12,9 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
     PPM, PSD, PSP, QOI, RAS, RLA, RLE, SGI, SPR, SVG, TGA, TGS, TIF, WBMP,
     WEBP, WMF, WPG, XBM, XCF, XPM
 * Support for digital camera RAW image file formats:
-  - 3FR, ARW, CR2, CR3, CRW, DNG, ERF, KDC, MRW, NEF, ORF, RAF, RAW, SRW, SR2
+  - 3FR, ARW, BAY, BMQ, CAP, CINE, CR2, CR3, CRW, CS1, DC2, DCR, DNG, ERF, FFF,
+    GPR, IA, IIQ, K25, KC2, KDC, MDC, MEF, MOS, MRW, NEF, NRW, ORF, ORI, PEF,
+    PTX, PXN, QTK, RAF, RAW, RDC, RW1, RW2, RWL, SR2, SRF, SRW, STI, X3F
 * Support for numerous archive file formats:
   - ZIP, RAR, 7Z, ALZ, HV3, CBZ, CBR, CB7
 * Support for high dynamic range image file formats:
