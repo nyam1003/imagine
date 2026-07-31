@@ -19,6 +19,7 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
   - ZIP, RAR, 7Z, ALZ, HV3, CBZ, CBR, CB7
 * Support for high dynamic range image file formats:
   - HDR, EXR, SXR, MXR
+* Display image while loading
 * Extract single/all frames from animation files
 * Show detailed information of image/animation files
 * Show Exif/XMP/IPTC/DICOM/Comment information
