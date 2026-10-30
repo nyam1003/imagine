@@ -6,11 +6,11 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 ## Features
 * View and save image/animation files with very fast speed
 * Support for numerous image/animation file formats:
-  - ANI, ANM, AVIF, BMP, BPG, CDR, CLIP, CLP, CUR, DCM, DCX, DDS, EMF, EXR,
-    FF, FLC, FLI, FLIF, GIF, HDP, HDR, HEIF, ICL, ICNS, ICO, JBG, JNG, JP2,
-    JPC, JPG, JXL, KRA, LBM, MAC, MBM, MNG, ORA, PAM, PBM, PCD, PCX, PDN, PFM,
-    PGM, PIC, PNG, PPM, PSB, PSD, PSP, QOI, RAS, RLA, RLE, SGI, SPR, SVG, TGA,
-    TGS, TIF, WBMP, WEBP, WMF, WPG, XBM, XCF, XPM
+  - ANI, ANM, AVIF, BMP, BPG, CDR, CLIP, CLP, CUR, DCM, DCX, DDS, DPX, EMF,
+    EXR, FF, FLC, FLI, FLIF, GIF, HDP, HDR, HEIF, ICL, ICNS, ICO, JBG, JNG,
+    JP2, JPC, JPG, JXL, KRA, KTX, LBM, MAC, MBM, MNG, ORA, PAM, PBM, PCD, PCX,
+    PDN, PFM, PGM, PIC, PNG, PPM, PSB, PSD, PSP, QOI, RAS, RLA, RLE, SGI, SPR,
+    SVG, TGA, TGS, TIF, WBMP, WEBP, WMF, WPG, XBM, XCF, XPM
 * Support for digital camera RAW image file formats:
   - 3FR, ARW, BAY, BMQ, CAP, CINE, CR2, CR3, CRW, CS1, DC2, DCR, DNG, ERF, FFF,
     GPR, IA, IIQ, K25, KC2, KDC, MDC, MEF, MOS, MRW, NEF, NRW, ORF, ORI, PEF,
