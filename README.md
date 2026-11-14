@@ -51,6 +51,7 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
   - Effect filters, including a handy Preview browser
   - Import, export and edit palettes
   - Set and remove transparency
+* Histogram
 * Customizable shortcuts for Keyboard and Mouse
 * Command line parameter support
 * Shell extension support
