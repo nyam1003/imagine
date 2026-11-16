@@ -8,9 +8,9 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
 * Support for numerous image/animation file formats:
   - ANI, ANM, AVIF, BMP, BPG, CDR, CLIP, CLP, CUR, DCM, DCX, DDS, DPX, EMF,
     EXR, FF, FLC, FLI, FLIF, GIF, HDP, HDR, HEIF, ICL, ICNS, ICO, JBG, JNG,
-    JP2, JPC, JPG, JXL, KRA, KTX, LBM, MAC, MBM, MNG, ORA, PAM, PBM, PCD, PCX,
-    PDN, PFM, PGM, PIC, PNG, PPM, PSB, PSD, PSP, QOI, RAS, RLA, RLE, SGI, SPR,
-    SVG, TGA, TGS, TIF, WBMP, WEBP, WMF, WPG, XBM, XCF, XPM
+    JP2, JPC, JPG, JXL, KRA, KTX, LBM, MAC, MBM, MNG, MPO, ORA, PAM, PBM, PCD,
+    PCX, PDN, PFM, PGM, PIC, PNG, PPM, PSB, PSD, PSP, QOI, RAS, RLA, RLE, SGI,
+    SPR, SVG, TGA, TGS, TIF, WBMP, WEBP, WMF, WPG, XBM, XCF, XPM
 * Support for digital camera RAW image file formats:
   - 3FR, ARW, BAY, BMQ, CAP, CINE, CR2, CR3, CRW, CS1, DC2, DCR, DNG, ERF, FFF,
     GPR, IA, IIQ, K25, KC2, KDC, MDC, MEF, MOS, MRW, NEF, NRW, ORF, ORI, PEF,
@@ -48,18 +48,18 @@ Website: [http://www.nyam.pe.kr](http://www.nyam.pe.kr)
   - Swap colors
   - Resize per pixel, percentage or standard dimensions.
   - Several resample filters available.
-  - Effect filters, including a handy Preview browser
+  - Effect filters, including preview browser
   - Import, export and edit palettes
   - Set and remove transparency
 * Histogram
-* Customizable shortcuts for Keyboard and Mouse
+* Customizable shortcuts for keyboard and mouse
 * Command line parameter support
 * Shell extension support
 * Add-on plugin support
-* Total Commander Lister, Packer and Content plugin
 * No write unnecessary registry (ini-based configuration)
 * Native support for x86, x64, and arm64 architectures
 * Fully optimized binaries (tiny, pure, fast, neat)
+* Total Commander Lister, Packer and Content plugin
 
 ## System requirements
 * CPU: Pentium compatible(x86, x64), ARM64(AArch64)
